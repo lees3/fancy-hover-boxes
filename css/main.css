@@ -29,5 +29,5 @@ html {
 
 .hover-box:hover .hover-box-img {
   filter: grayscale(0);
-  transform: scale(1.1);
+  transform: scale(1.1)
 }
